@@ -21,7 +21,7 @@
     "build": "vue-tsc --noEmit && vite build && electron-builder"
   },
   "dependencies": {
-    "@vueuse/core": "^9.2.0"
+    "@vueuse/core": "^9.6.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.26.3",
