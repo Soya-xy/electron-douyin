@@ -24,7 +24,7 @@
     "@vueuse/core": "^9.12.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.35.1",
+    "@antfu/eslint-config": "^0.35.3",
     "@arco-design/web-vue": "^2.42.0",
     "@iconify-json/carbon": "^1.1.14",
     "@unocss/preset-attributify": "^0.49.4",
