@@ -942,6 +942,11 @@
   resolved "https://registry.yarnpkg.com/@unocss/core/-/core-0.49.4.tgz#9d0d2c4f88bea277846728262acebfdb1f0f9831"
   integrity sha512-1RNV+KBgRo0uuaa5Etwc5cfxkdhJelIXRFz3LeXBOU4dIrTzBAMr352M+oZ/nnkbnAROGf3icTE0UcmSaCA2RQ==
 
+"@unocss/core@0.50.3":
+  version "0.50.3"
+  resolved "https://registry.yarnpkg.com/@unocss/core/-/core-0.50.3.tgz#d7edefd380908c16a1b6275c15317558ced4dccb"
+  integrity sha512-bS9FpI7+kQ2LijNucTze7grA+HPk556ctGNUNYt/CMDkFt/+7beV0j4QQMp2g/JEZOgPtFHusHJfSNcAhkDL4Q==
+
 "@unocss/inspector@0.49.4":
   version "0.49.4"
   resolved "https://registry.yarnpkg.com/@unocss/inspector/-/inspector-0.49.4.tgz#4f05282c783af0b1b67b2dbb4aedb43a5cb3ddd6"
@@ -950,12 +955,19 @@
     gzip-size "^6.0.0"
     sirv "^2.0.2"
 
-"@unocss/preset-attributify@0.49.4", "@unocss/preset-attributify@^0.49.4":
+"@unocss/preset-attributify@0.49.4":
   version "0.49.4"
   resolved "https://registry.yarnpkg.com/@unocss/preset-attributify/-/preset-attributify-0.49.4.tgz#f6629b3817bb900b2a4c91dca4c1785cd815ea63"
   integrity sha512-y0UZmsb+XOv657yM9tmLy9C73rOrXt4aY77WtGlA/cJ7LWyDGF+bqg1X2t9ojqlf3fx4gVAN+OVZzDvSxesV8g==
   dependencies:
     "@unocss/core" "0.49.4"
+
+"@unocss/preset-attributify@^0.50.3":
+  version "0.50.3"
+  resolved "https://registry.yarnpkg.com/@unocss/preset-attributify/-/preset-attributify-0.50.3.tgz#d179d819285e4fcb6a92139c22d8bc7ee9cb3fd6"
+  integrity sha512-Zc0+9QTiW9QEd48+EPfEuPN8aszOHCzluy7NG0MxPErS9Os7ryu/mCKtR4IEHO8cYE/AJgxg2RO0kDCOuY0XJw==
+  dependencies:
+    "@unocss/core" "0.50.3"
 
 "@unocss/preset-icons@0.49.4":
   version "0.49.4"
